@@ -36,6 +36,7 @@
 
 HTML, CSS, JavaScript, Bootstrap, DOM & DOM Manipulation, jQuery, Node.js, Express.js, React.js, EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas,
 mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, passport-local-mongoose, passport-google-path20, mongoose-findorcreate, express-session, API, JSON, Authentication, Mailchimp API, Building RESTful API from scratch, Heroku Deployment.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Tools used
